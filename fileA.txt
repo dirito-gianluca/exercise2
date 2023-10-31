@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Feature1 with 1 bug feature2 wip
+=======
+Feature1 with 1 bug
+>>>>>>> 5900612 (Fix feature1 bug X)
